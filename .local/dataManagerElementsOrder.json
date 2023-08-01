@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AttachmentFileName&Sequence_1",
+        "ClientCode&Sequence_7",
+        "DiscountAmount&Sequence_11",
+        "MailRetrived&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "new/Sample_SMTP_Attachement.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "fileNames_to_be_attache&Sequence_3",
+        "mail&Sequence_3",
+        "password&Sequence_3",
+        "attachment&Sequence_1",
+        "attachments&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

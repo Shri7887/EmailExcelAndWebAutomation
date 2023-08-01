@@ -1,0 +1,15 @@
+{
+  "Tags": [
+    {
+      "Key": "EmailAutomation"
+    },
+    {
+      "Key": "ExcelAutomation"
+    },
+    {
+      "Key": "WebAutomation"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
